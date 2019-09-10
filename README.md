@@ -1,3 +1,5 @@
+I never got chance to do the second module as your api documentation was not working.So i've uploaded Django rest-auth auhtnetication using redux.You just need to change the url in /actions/Auth.js file while performing axios operations and run npm install before opening the application.Thank You! 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
